@@ -19,7 +19,7 @@ Due to the growing importance of the cryptocurrency market, as well as the diver
 
 
 ## Results
-<img src='results/tbl3.png' width='450' height='100'>
+<img src='results/tbl3.png' style="align-self: center" width='450' height='100'>
 <img src='results/fig4.png' width='900' height='200'>
 
 Please refer to our [paper](https://ieeexplore.ieee.org/abstract/document/10139275/) for detailed values.

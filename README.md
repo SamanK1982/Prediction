@@ -41,7 +41,7 @@ We provide the source code on three benchmark datasets, i.e., CIFAR100, CUB200 a
 We employed web scraping to determine the start and end dates for historical data. Furthermore, it specifies the granularity parameter, which indicates daily data. Following a query to the Coinbase API, and/or the Yahoo! Finance library, which are publicly available the module browses the results and saves the price data in a list called prices. 
 Code Structures and Details
 There are five parts to the code.
-- `models`: It contains the network and training protocols for the experiment.
+  - `models`: It contains the network and training protocols for the experiment.
   - `data`: Data and data description for the dataset.
   - `dataloader`: Dataloader.
   - `training`: Training loops and modules.

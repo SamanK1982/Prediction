@@ -43,7 +43,7 @@ Code Structures and Details
 There are five parts to the code.
   - `models`: It contains the network and training protocols for the experiment.
   - `data`: Data and data description for the dataset.
-  - `dataloader`: Dataloader.
+  - `dataloaders`: Dataloader.
   - `training`: Training loops and modules.
   - `results`: Further details and results.
 

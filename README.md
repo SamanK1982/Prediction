@@ -42,8 +42,7 @@ We employed web scraping to determine the start and end dates for historical dat
 Code Structures and Details
 There are five parts to the code.
   - `models`: It contains the network and training protocols for the experiment.
-  - `data`: Data and data description for the dataset.
-  - `dataloaders`: Dataloader.
+  - `data`: Data loaders and data descriptions and explorations and preprocessing.
   - `training`: Training loops and modules.
   - `results`: Further details and results.
 
